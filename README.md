@@ -1,4 +1,7 @@
 # Prakrithi
+  
+## Proof of Concept 
+<img src="https://i.imgur.com/ITbOcne.png" height="500px"></img>
 
 ## Made by
 + Muzaan Mohammed
